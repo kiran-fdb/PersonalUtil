@@ -1,3 +1,4 @@
+#GOOGLE_API_KEY=AIzaSyBvbpoO2_iIW-kCxzWdnwdTXlRskfJv83M
 import requests
 import os
 from tqdm import tqdm
